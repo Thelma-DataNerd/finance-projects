@@ -19,7 +19,7 @@ Each project is organized in its own folder with a brief description, code noteb
 
 ---
 
-### Credit_Card_Fraud_Prediction_System:
+### Credit Card Fraud Prediction System:
 - Objectives: This project aims to develop a machine learning model for detecting fraudulent credit card transactions. The goal is to predict the likelihood of a transaction being fraudulent or legitimate, thereby reducing financial losses due to fraud and improving overall transaction security.
 - Content: The dataset shows credit card transactions from European cardholders in September 2013.
 It consists solely of numerical input variables, which have been derived through a Principal Component Analysis (PCA) transformation, reducing the original feature set into a more compact and simplified form.
