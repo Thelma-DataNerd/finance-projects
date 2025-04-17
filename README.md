@@ -31,6 +31,7 @@ It consists solely of numerical input variables, which have been derived through
   * The AUC-ROC score (0.9478) for Random forest suggests high discriminatory power between fraus and non-fraud transactions.
   * Feature importance analysis revealed that V14,V4, V3, and V8 were the most significant in fraud detection.
   * The system effectively detects fraudulent transactions with high accurracy and precision.
+- Project Link: https://github.com/Thelma-DataNerd/finance-projects/blob/main/Credit%20Card%20Fraud%20Prediction%20System.ipynb
  
  ***
  
@@ -48,6 +49,7 @@ It consists solely of numerical input variables, which have been derived through
   * Borrowers took loans primarily for car purchases, radios and furnitures, which are not income generating assests.
   * Foreign workers and skilled employees formed a significant portion of loan defaulters.
   * Features like credit history, checking balance, and loan duration had the highest influence on default predictions.
+- Project Link: https://github.com/Thelma-DataNerd/finance-projects/blob/main/Credict%20Card%20Risk%20Analysis.ipynb
 
 ### Presentation
 Credit Card Risk Analysis (Link) : https://docs.google.com/presentation/d/1rOXgQbikQ2QD6Rkuu92bj2HWmOFDrYWH/edit?usp=sharing&ouid=108132869827208861678&rtpof=true&sd=true
