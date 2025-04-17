@@ -23,9 +23,9 @@ Each project is organized in its own folder with a brief description, code noteb
 - Objectives: This project aims to develop a machine learning model for detecting fraudulent credit card transactions. The goal is to predict the likelihood of a transaction being fraudulent or legitimate, thereby reducing financial losses due to fraud and improving overall transaction security.
 - Content: The dataset shows credit card transactions from European cardholders in September 2013.
 It consists solely of numerical input variables, which have been derived through a Principal Component Analysis (PCA) transformation, reducing the original feature set into a more compact and simplified form.
-- Tools: Python, Pandas, NumPy, Data Analysis and statistics, Scikit-learn, Logistic Regression, Decision Tree, Random Forest, Data modeing and evaluation
-- Techniques: Data cleaning, exploratory data analysis (EDA), Imbalanced data handling, feature engineering, preprocessing, logistic regression modeling, model evaluation using AUC-ROC 
- and other metrics, comparison with decision tree and random forest models.
+- Tools: Python, Pandas, NumPy, Scikit-learn
+- Models: Logistic Regression, Decision Tree, Random Forest
+- Techniques: Data cleaning, exploratory data analysis (EDA), handling imbalanced datasets, feature engineering, data preprocessing, model building and evaluation using AUC-ROC and other performance metrics, and model comparison across different algorithm
 - Outcome:
   * The Random forest model outperformed others in detecting fraudulanet transactions while miniizing false positives.
   * The AUC-ROC score (0.9478) for Random forest suggests high discriminatory power between fraus and non-fraud transactions.
