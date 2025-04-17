@@ -2,10 +2,10 @@
 
 ### Table of Contents
 - [Overview](#overview)
-- [Credit Card Fraud Prediction System](#credit_card_fraud_prediction_system)
-- [Credit Card Risk Analysis](#credit_card_risk_analysis)
+- [Credit Card Fraud Prediction System](#credit-card-fraud-prediction-system)
+- [Credit Card Risk Analysis](#credit-card-risk-analysis)
 - [Presentation](#presentation)
-- [Data Source](#data_source)
+- [Data Source](#data-source)
 
 
 
