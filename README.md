@@ -5,7 +5,7 @@
 - [Credit Card Fraud Prediction System](#credit_card_fraud_prediction_system)
 - [Credit Card Risk Analysis](#credit_card_risk_analysis)
 - [Presentation](#presentation)
-- [Source of Dataset](#source_of_dataset)
+- [Data Source](#data_source)
 
 
 
@@ -32,7 +32,7 @@ It consists solely of numerical input variables, which have been derived through
   * Feature importance analysis revealed that V14,V4, V3, and V8 were the most significant in fraud detection.
   * The system effectively detects fraudulent transactions with high accurracy and precision.
  
- ---
+ ***
  
 ### Credit Card Risk Analysis
 - Objectives: To evaluate the creditworthiness of individual borrowers, in other to determine the likelihood of borrowers repaying their debts on time.
@@ -50,6 +50,6 @@ It consists solely of numerical input variables, which have been derived through
 ### Presentation
 Credit Card Risk Analysis (Link) : https://docs.google.com/presentation/d/1rOXgQbikQ2QD6Rkuu92bj2HWmOFDrYWH/edit?usp=sharing&ouid=108132869827208861678&rtpof=true&sd=true
 
-### Source_of_Dataset
+### Data Source
  * Credit card fraud: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
  * German credit: https://github.com/Thelma-DataNerd/finance-projects/blob/main/GermanCredit.csv
