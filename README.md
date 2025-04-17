@@ -39,6 +39,8 @@ It consists solely of numerical input variables, which have been derived through
 - Content: The GermanCredit dataset consist of customers data applying for a loan.
 - Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, PowerPoint (for presentation)
 - Technique: Data exploration and cleaning, exploratory data analysis (EDA), visualization, insights and recommendation, presentation.
+
+  <img src="https://github.com/Thelma-DataNerd/finance-projects/blob/main/credit_risk_image.png"width="500"/>
 - Outcome:
   * Most borrowers have low checking and saving balances.
   * Most defaulting borrowers are single men.
