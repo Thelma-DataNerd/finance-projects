@@ -2,7 +2,7 @@
 
 ### Table of Contents
 - [Overview](#Overview)
-- [Credit Card Fraud Prediction System](#Credit Card Fraud Prediction System)
+- [Credit Card Fraud Prediction System](#Credit Card Fraud Prediction System:)
 - [Credit Card Risk Analysis](#Credit Card Risk Analysis)
 - [Presentation](#Presentation)
 - [Source of Dataset](#Source_of_Dataset)
@@ -46,22 +46,20 @@ Data cleaning, exploratory data analysis (EDA), preprocessing, logistic regressi
  
 ### Credit Card Risk Analysis
 - Objectives:
- * To evaluate the creditworthiness of individual borrowers, in other to determine the likelihood of borrowers repaying their debts on time.
- * To analyze the credit risk data, identifying trends and patterns, give insights, and recommendations.
+  * To evaluate the creditworthiness of individual borrowers, in other to determine the likelihood of borrowers repaying their debts on time.
+  * To analyze the credit risk data, identifying trends and patterns, give insights, and recommendations.
 
-- Content:
-The GermanCredit dataset consist of data of customers applying for a loan.
+- Content: The GermanCredit dataset consist of data of customers applying for a loan.
 
-- Steps_Taken:
-Data exploration and cleaning, exploratory data analysis (EDA), visualization, presentation.
+- Steps_Taken: Data exploration and cleaning, exploratory data analysis (EDA), visualization, presentation.
 
 - Results:
- * Most borrowers have low checking and saving balances.
- * Most defaulting borrowers are single men.
- * Defaulting borrowers tend to have no co-applicant or gurantor, increasing loan risk.
- * Borrowers took loans primarily for car purchases, radios and furnitures, which are not income generating assests.
- * Foreign workers and skilled employees formed a significant portion of loan defaulters.
- * Features like credit history, checking balance, and loan duration had the highest influence on default predictions.
+  * Most borrowers have low checking and saving balances.
+  * Most defaulting borrowers are single men.
+  * Defaulting borrowers tend to have no co-applicant or gurantor, increasing loan risk.
+  * Borrowers took loans primarily for car purchases, radios and furnitures, which are not income generating assests.
+  * Foreign workers and skilled employees formed a significant portion of loan defaulters.
+  * Features like credit history, checking balance, and loan duration had the highest influence on default predictions.
 
 ### Presentation
 Credit Card Risk Analysis (Link) : https://docs.google.com/presentation/d/1rOXgQbikQ2QD6Rkuu92bj2HWmOFDrYWH/edit?usp=sharing&ouid=108132869827208861678&rtpof=true&sd=true
