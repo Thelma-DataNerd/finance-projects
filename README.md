@@ -38,7 +38,7 @@ It consists solely of numerical input variables, which have been derived through
 ### Loan Risk Analysis
 - Objectives: To evaluate the creditworthiness of individual borrowers, in other to determine the likelihood of borrowers repaying their debts on time.
 - Content: The GermanCredit dataset consist of customers data applying for a loan.
-- Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, PowerPoint (for presentation)
+- Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI (for visualization), PowerPoint (for presentation)
 - Technique: Data exploration and cleaning, exploratory data analysis (EDA), visualization, insights and recommendation, presentation.
 
   <img src="https://github.com/Thelma-DataNerd/finance-projects/blob/main/Loan%20Risk%20Dashboard.jpg" width="500"/>
@@ -51,8 +51,8 @@ It consists solely of numerical input variables, which have been derived through
   * Features like credit history, checking balance, and loan duration had the highest influence on default predictions.
 - Project Link: https://github.com/Thelma-DataNerd/finance-projects/blob/main/Loan%20Risk%20Intelligence%20Analysis.ipynb
 ### Presentation
-Loan Risk Analysis (Link) : https://docs.google.com/presentation/d/1rOXgQbikQ2QD6Rkuu92bj2HWmOFDrYWH/edit?usp=sharing&ouid=108132869827208861678&rtpof=true&sd=true
-Power BI Dashboard (Link): https://drive.google.com/file/d/1eyGD2HEz3xbAGk0N3fBWn2PeJfEnWrGD/view?usp=sharing
+* Loan Risk Analysis (Link) : https://docs.google.com/presentation/d/1rOXgQbikQ2QD6Rkuu92bj2HWmOFDrYWH/edit?usp=sharing&ouid=108132869827208861678&rtpof=true&sd=true
+* Power BI Dashboard (Link): https://drive.google.com/file/d/1eyGD2HEz3xbAGk0N3fBWn2PeJfEnWrGD/view?usp=sharing
 
 ### Data Source
  * Credit card fraud: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
