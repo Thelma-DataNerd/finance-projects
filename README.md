@@ -52,7 +52,7 @@ It consists solely of numerical input variables, which have been derived through
 - Project Link: https://github.com/Thelma-DataNerd/finance-projects/blob/main/Loan%20Risk%20Intelligence%20Analysis.ipynb
 ### Presentation
 * Loan Risk Analysis (Link) : https://docs.google.com/presentation/d/1rOXgQbikQ2QD6Rkuu92bj2HWmOFDrYWH/edit?usp=sharing&ouid=108132869827208861678&rtpof=true&sd=true
-* Power BI Dashboard (Link): https://drive.google.com/file/d/1eyGD2HEz3xbAGk0N3fBWn2PeJfEnWrGD/view?usp=sharing
+* Power BI Dashboard (Link): https://drive.google.com/file/d/1cEaOmeVyx_Pbps3lm11n8Q2GnhZ4R0n-/view?usp=sharing
 
 ### Data Source
  * Credit card fraud: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
