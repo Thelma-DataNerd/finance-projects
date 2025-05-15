@@ -41,7 +41,7 @@ It consists solely of numerical input variables, which have been derived through
 - Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI (for visualization), PowerPoint (for presentation)
 - Technique: Data exploration and cleaning, exploratory data analysis (EDA), visualization, insights and recommendation, presentation.
 
-  <img src="https://github.com/Thelma-DataNerd/finance-projects/blob/main/Loan%20Risk%20Dashboard.jpg" width="500"/>
+  <img src="https://github.com/Thelma-DataNerd/finance-projects/blob/main/Loan%20Risk%20Analysis.jpg" width="500"/>
 - Outcome:
   * Most borrowers have low checking and saving balances.
   * Most defaulting borrowers are single men.
@@ -52,7 +52,7 @@ It consists solely of numerical input variables, which have been derived through
 - Project Link: https://github.com/Thelma-DataNerd/finance-projects/blob/main/Loan%20Risk%20Intelligence%20Analysis.ipynb
 ### Presentation
 * Loan Risk Analysis (Link) : https://docs.google.com/presentation/d/1rOXgQbikQ2QD6Rkuu92bj2HWmOFDrYWH/edit?usp=sharing&ouid=108132869827208861678&rtpof=true&sd=true
-* Power BI Dashboard (Link): https://drive.google.com/file/d/1cEaOmeVyx_Pbps3lm11n8Q2GnhZ4R0n-/view?usp=sharing
+* Power BI Dashboard (Link): https://drive.google.com/file/d/1HWJ1wQQyNStE1-GwPWt_grycpnSzE3QU/view?usp=drive_link
 
 ### Data Source
  * Credit card fraud: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
